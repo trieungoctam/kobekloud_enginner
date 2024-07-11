@@ -1,5 +1,6 @@
 # kodekloud_enginner
 
+- [DevOps Learning Path](#devops-learning-path)
 - [Roles](#roles)
 - [Public Profile](#public-profile)
 - [Labs - Per Role](#labs---per-role)
@@ -17,6 +18,32 @@
 This repository contains all my notes for ~~past~~ Kodekloud Engineer tasks which are all performed in a live Linux environment. These tasks simulate actual enterprise challenges and mimics the day-to-day work of System Administrators and Devops Engineers.
 
 For each task, a set of requirements are given. The documentations for the servers are also provided. It is up for the "engineer" to find the solution for each problem.
+
+## DevOps Learning Path
+
+
+<pre>
+/Start
+├── Get your basic
+│   └── 12 Factor App ✔️
+├── Learn The Basics Of DevOps, Networking And Application
+│   ├── DevOps Pre-Requisite Course ✔️
+│   └── Fundamentals of DevOps
+├── Learn Linux
+│   ├── Learning Linux Basics Course & Labs ✔️
+│   └── Shell Scripts for Beginners
+├── Learn Programming
+│   ├── Golang
+│   └── Python
+├── Learn Version Control
+│   └── Git for Beginers
+├── Learn Popular CI/CD Tools
+├── Ace Container Concepts
+├── Learn Container Orchestration
+├── Infrastructure As Code
+├── Get To The Advanced Learning
+└── Get Career Ready!
+</pre>
 
 ## Roles
 
